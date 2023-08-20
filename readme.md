@@ -1,7 +1,7 @@
-### Anotaciones y Código de los modelos impartidos en el curso (Introducción a la IA con Python)
+## Anotaciones y Código de los modelos impartidos en el curso (Introducción a la IA con Python)
 
 
-## Librerias instaladas
+### Librerias instaladas
 
 ```
 pip install pandas
@@ -11,10 +11,10 @@ pip install sklearn
 pip install tensorflow
 ```
 
-## Correr Proyecto
+### Correr Proyecto
 
 ```
     python analyze_data.ipynb
 ```
 
-## Nota: debe tener la extension de vscode de Jupyter Notbook
+#### Nota: debe tener la extension de vscode de Jupyter Notbook
